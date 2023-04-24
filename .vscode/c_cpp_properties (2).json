@@ -1,0 +1,257 @@
+function get_data(url, callback) {
+  var xhr = new XMLHttpRequest();
+  xhr.open('GET', url, true);
+  xhr.onreadystatechange = function() {
+    if (xhr.readyState == 4) {
+      if (xhr.status == 200) {
+        callback(xhr.responseText);
+      }
+    }
+  };
+  xhr.send();
+}
+//@ai fix this file
+//       "module": "enter module name",
+//       "console": "integratedTerminal",
+//       "justMyCode": true
+//     },
+//     {
+//       "name": "Python: Django",
+//       "type": "python",
+//       "request": "launch",
+//       "program": "${workspaceFolder}/manage.py",
+//       "args": [
+//         "runserver",
+//         "--noreload",
+//         "--nothreading"
+//       ],
+//       "django": true,
+//       "justMyCode": true
+//     },
+//     {
+//       "name": "Python: Flask",
+function get_data(url, callback) {
+  var xhr = new XMLHttpRequest();
+  xhr.open('GET', url, true);
+  xhr.onreadystatechange = function() {
+    if (xhr.readyState == 4) {
+      if (xhr.status == 200) {
+        callback(xhr.responseText);
+      }
+    }
+  };
+  xhr.send();
+}
+
+function get_data(url, callback) {
+  var xhr = new XMLHttpRequest();
+  xhr.open('GET', url, true);
+  xhr.onreadystatechange = function() {
+    if (xhr.readyState == 4) {
+      if (xhr.status == 200) {
+        callback(xhr.responseText);
+      }
+    }
+  };
+  xhr.send();
+}
+
+function get_data(url, callback) {
+  var xhr = new XMLHttpRequest();
+  xhr.open('GET', url, true);
+  xhr.onreadystatechange = function() {
+    if (xhr.readyState == 4) {
+      if (xhr.status == 200) {
+        callback(xhr.responseText);
+      }
+    }
+  };
+  xhr.send();
+}
+
+function get_data(url, callback) {
+  var xhr = new XMLHttpRequest();
+  xhr.open('GET', url, true);
+  xhr.onreadystatechange = function() {
+    if (xhr.readyState == 4) {
+      if (xhr.status == 200) {
+        callback(xhr.responseText);
+      }
+    }
+  };
+  xhr.send();
+}
+
+function get_data(url, callback) {
+  var xhr = new XMLHttpRequest();
+  xhr.open('GET', url, true);
+  xhr.onreadystatechange = function() {
+    if (xhr.readyState == 4) {
+      if (xhr.status == 200) {
+        callback(xhr.responseText);
+      }
+    }
+  };
+  xhr.send();
+}
+
+function get_data(url, callback) {
+  var xhr = new XMLHttpRequest();
+  xhr.open('GET', url, true);
+  xhr.onreadystatechange = function() {
+    if (xhr.readyState == 4) {
+      if (xhr.status == 200) {
+        callback(xhr.responseText);
+      }
+    }
+  };
+  xhr.send();
+}
+
+function get_data(url, callback) {
+  var xhr = new XMLHttpRequest();
+  xhr.open('GET', url, true);
+  xhr.onreadystatechange = function() {
+    if (xhr.readyState == 4) {
+      if (xhr.status == 200) {
+        callback(xhr.responseText);
+      }
+    }
+  };
+  xhr.send();
+}
+
+function get_data(url, callback) {
+  var xhr = new XMLHttpRequest();
+  xhr.open('GET', url, true);
+  xhr.onreadystatechange = function() {
+    if (xhr.readyState == 4) {
+      if (xhr.status == 200) {
+        callback(xhr.responseText);
+      }
+    }
+  };
+  xhr.send();
+}
+
+function get_data(url, callback) {
+  var xhr = new XMLHttpRequest();
+  xhr.open('GET', url, true);
+  xhr.onreadystatechange = function() {
+    if (xhr.readyState == 4) {
+      if (xhr.status == 200) {
+        callback(xhr.responseText);
+      }
+    }
+  };
+  xhr.send();
+}
+
+function get_data(url, callback) {
+  var xhr = new XMLHttpRequest();
+  xhr.open('GET', url, true);
+  xhr.onreadystatechange = function() {
+    if (xhr.readyState == 4) {
+      if (xhr.status == 200) {
+        callback(xhr.responseText);
+      }
+    }
+  };
+  xhr.send();
+}
+
+function get_data(url, callback) {
+  var xhr = new XMLHttpRequest();
+  xhr.open('GET', url, true);
+  xhr.onreadystatechange = function() {
+    if (xhr.readyState == 4) {
+      if (xhr.status == 200) {
+        callback(xhr.responseText);
+      }
+    }
+  };
+  xhr.send();
+}
+
+function get_data(url, callback) {
+  var xhr = new XMLHttpRequest();
+  xhr.open('GET', url, true);
+  xhr.onreadystatechange = function() {
+    if (xhr.readyState == 4) {
+      if (xhr.status == 200) {
+        callback(xhr.responseText);
+      }
+    }
+  };
+  xhr.send();
+}
+
+function get_data(url, callback) {
+  var xhr = new XMLHttpRequest();
+  xhr.open('GET', url, true);
+  xhr.onreadystatechange = function() {
+    if (xhr.readyState == 4) {
+      if (xhr.status == 200) {
+        callback(xhr.responseText);
+      }
+    }
+  };
+  xhr.send();
+}
+
+function get_data(url, callback) {
+  var xhr = new XMLHttpRequest();
+  xhr.open('GET', url, true);
+  xhr.onreadystatechange = function() {
+    if (xhr.readyState == 4) {
+      if (xhr.status == 200) {
+        callback(xhr.responseText);
+      }
+    }
+  };
+  xhr.send();
+}
+
+function get_data(url, callback) {
+  var xhr = new XMLHttpRequest();
+  xhr.open('GET', url, true);
+  xhr.onreadystatechange = function() {
+    if (xhr.readyState == 4) {
+      if (xhr.status == 200) {
+        callback(xhr.responseText);
+      }
+    }
+  };
+  xhr.send();
+}
+
+function get_data(url, callback) {
+  var xhr = new XMLHttpRequest();
+  xhr.open('GET', url, true);
+  xhr.onreadystatechange = function() {
+    if (xhr.readyState == 4) {
+      if (xhr.status == 200) {
+        callback(xhr.responseText);
+      }
+    }
+  };
+  xhr.send();
+}
+
+  "configurations": [
+    {
+      "name": "windows-gcc-x64",
+      "includePath": [
+        "${workspaceFolder}/**"
+      ],
+      "compilerPath": "gcc",
+      "cStandard": "${default}",
+      "cppStandard": "${default}",
+      "intelliSenseMode": "windows-gcc-x64",
+      "compilerArgs": [
+        ""
+      ]
+    }
+  ],
+  "version": 4
+}

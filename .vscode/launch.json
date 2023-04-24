@@ -1,0 +1,60 @@
+{
+  {
+    "name": "Python: Current File",
+    "type": "python",
+    "request": "launch",
+    "program": "${file}",
+    "console": "integratedTerminal",
+    "justMyCode": true,
+    "configurations": [
+      {
+        "name": "Python: Remote Attach",
+        "type": "python",
+        "request": "attach",
+        "connect": {
+          "host": "localhost",
+          "port": 5678
+        },
+        "pathMappings": [
+          {
+            "localRoot": "${workspaceFolder}",
+            "remoteRoot": "."
+          }
+        ],
+        "justMyCode": true
+      },
+      {
+        "name": "Dart",
+        "type": "dart",
+        "request": "launch",
+        "program": "bin/main.dart"
+      },
+      {
+        "name": "Launch via NPM",
+        "request": "launch",
+        "runtimeArgs": [
+          "run-script",
+          "debug"
+        ],
+        "runtimeExecutable": "npm",
+        "skipFiles": [
+          "<node_internals>/**"
+        ],
+        "type": "node"
+      },
+      {
+        "type": "java",
+        "name": "Launch with Arguments Prompt",
+        "request": "launch",
+        "mainClass": "",
+        "args": "${command:SpecifyProgramArgs}"
+      }
+    ]
+  }
+  {
+    "name": "Python: Module",
+    "type": "python",
+    "request": "launch",
+    "module": "chatcompletion.py",
+    "justMyCode": true
+  },
